@@ -3,7 +3,7 @@
 (Website Snapshots attached below)
 ## Introduction
 
-In this Assessment, we have created a Visualization Dashboard to facilitate analytics, graphs, and charts for better visualization of the given dataset. This Assessment includes three pages:
+In this Project, we have created a Visualization Dashboard to facilitate analytics, graphs, and charts for better visualization of the given dataset. This Assessment includes three pages:
 
 - **🏠 Home**: Collection of all Charts, Graphs, and complete Analysis.
 - **🔍 Filtering Zone**: Page to read and filter data from the raw dataset.
