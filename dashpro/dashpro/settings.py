@@ -31,7 +31,11 @@ SECRET_KEY = 'django-insecure-8n-pylh*)ypgb358xg5pej9njilib2$sg0bj=^!8%08&251j1p
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS =
+    'localhost',
+    '127.0.0.1',
+    'https://dashpro.azurewebsites.net/'
+]
 
 
 # Application definition
