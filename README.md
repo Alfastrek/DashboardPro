@@ -1,4 +1,4 @@
-# 📊 DashboardPro - Dynamic Data Dashboard with Django & Chart.js
+# 📊 DashPro - Dynamic Data Dashboard with Django & Chart.js
 
 (Website Snapshots attached below)
 ## Introduction
